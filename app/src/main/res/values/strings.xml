@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">CoVid-19</string>
+    <string name="search">Search</string>
+    <string name="dark_mode">Dark Mode</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_blank_fragment2">Hello blank fragment 2</string>
+    <string name="hello_blank_fragment3">Hello blank fragment 3</string>
+    <string name="hello_blank_fragment4">Hello blank fragment 4</string>
+    <string name="hello_blank_fragment5">Hello blank fragment 5</string>
+    <string name="global_statistics_title">Global Statistics</string>
+    <string name="new_cases">New Cases</string>
+    <string name="_100_000">100,000</string>
+    <string name="recovered_today">Recovered today</string>
+    <string name="cases_today">Cases today</string>
+    <string name="deaths_today">Deaths today</string>
+    <string name="total_cases">Total cases</string>
+    <string name="total_recovered">Total recovered</string>
+    <string name="total_deaths">Total Deaths</string>
+    <string name="refresh">Refresh</string>
+    <string name="country_name">Country Name</string>
+    <string name="country_flag">Country Flag</string>
+    <string name="_12">12</string>
+    <string name="title_activity_main2">MainActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="country_details">Country Details</string>
+    <string name="critical">Critical</string>
+    <string name="active">Active Cases</string>
+    <string name="cases_per_million">Cases per million</string>
+    <string name="washing_hands">Wash your hands regularly with soap and water, or clean them with alcohol-based hand rub.</string>
+    <string name="social_distancing">Maintain at least 1 metre distance between you and people coughing or sneezing.</string>
+    <string name="touching">Avoid touching your face.</string>
+    <string name="covering">Cover your mouth and nose when coughing or sneezing.</string>
+    <string name="stay_home">Stay home if you feel unwell.</string>
+    <string name="avoid_smoking">Refrain from smoking and other activities that weaken the lungs.</string>
+    <string name="santize">Use a sanitizer to keep yourself free of germs when going out.</string>
+    <string name="safety_instructions">Safety Instructions</string>
+    <string name="visual_action">visual action</string>
+    <string name="data_providers">Data from:</string>
+    <string name="connection_string">Please make sure that you are connected to the internet</string>
+    <string name="project_info">Project Info</string>
+    <string name="university_logo">University Logo</string>
+    <string name="project_name">Project Name</string>
+    <string name="project_details">Project Details</string>
+    <string name="libraries_apis_used">Libraries/APIs used</string>
+    <string name="project_desc">This application uses REST apis endpoints to visualize live data related to the coronavirus pandemic. The apis re sourced from POSTMAN, the network threading is done through library called Volley and Images are loaded using a library called Glide. This app also makes use of several material components. In terms on android sdk it makes uses all the basic components, several wrapper classes, adapters, view-holders, Bundles, Interfaces, Intents, Fragments, Recycler Views and a lot more,\nThanks.</string>
+
+</resources>

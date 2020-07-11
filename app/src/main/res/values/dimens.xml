@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="item_gap">24dp</dimen>
+    <dimen name="in_gap">10dp</dimen>
+    <dimen name="item_space">8dp</dimen>
+</resources>
